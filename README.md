@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://gpvc.arturio.dev/mri141?label=Profile%20views&color=0e75b6&style=flat" alt="mri141" /> </p>
 
-- I’m currently work as the **Head of IT Department**
+- 🔭 I’m currently work as the **Head of IT Department**
 
-- I’m looking to collaborate on **Information Technology, Software Development & Project Management.**
+- 👯 I’m looking to collaborate on **Information Technology, Software Development & Project Management.**
 
-- How to reach me **rashedcse35@gmail.com**
+- 📫 How to reach me **rashedcse35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
