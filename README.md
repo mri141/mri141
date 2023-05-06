@@ -1,7 +1,6 @@
+<p align="center"> <img src="https://gpvc.arturio.dev/mri141?label=Profile%20views&color=0e75b6&style=flat" alt="mri141" /> </p>
 <h1 align="center">Hi, I'm Rashedul Islam</h1>
 <h4 align="center">A passionate Problem Solver | Software Developer | Project Manager | IT Expert from Bangladesh</h4>
-</br>
-<p align="center"> <img src="https://gpvc.arturio.dev/mri141?label=Profile%20views&color=0e75b6&style=flat" alt="mri141" /> </p>
 
 - I’m currently work as the **Head of IT Department**
 
@@ -12,9 +11,9 @@
 - I have worked at **eCommerce, Software Companies, Consultancy Farms, Online Marketplaces, Educational Institutes, and Social Organizations** 
 </br></br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: rashedcse35@gmail.com</h3>
 
-- Email: **rashedcse35@gmail.com**
+<!-- - Email: **rashedcse35@gmail.com** -->
 
 <p align="left">
 <a href="https://linkedin.com/in/mri141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mri141" height="30" width="40" /></a>
