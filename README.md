@@ -12,7 +12,7 @@
 - I have worked at **eCommerce, Software Companies, Consultancy Farms, Online Marketplaces, Educational Institutes, and Social Organizations** 
 </br></br>
 
-<h3 align="left">Connect with me: rashedcse35@gmail.com</h3>
+<h3 align="left">Connect with me: rashed@bigbd.org</h3>
 <!-- - Email: **rashed@bigbd.org** -->
 
 <p align="left">
