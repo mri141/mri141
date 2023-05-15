@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://gpvc.arturio.dev/mri141?label=Profile%20views&color=0e75b6&style=flat" alt="mri141" /> </p>
-<h1 align="center">Hi, I'm Rashedul Islam</h1>
+<h1 align="center">Hi, I'm RASHEDUL ISLAM</h1>
 <h4 align="center">A passionate Problem Solver | Software Developer | Project Manager | IT Expert from Bangladesh</h4>
 
 - I’m currently work as the **Head of IT Department**
