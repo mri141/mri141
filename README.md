@@ -1,6 +1,6 @@
 <!-- <p align="left"> <img src="https://gpvc.arturio.dev/mri141?label=Profile%20views&color=0e75b6&style=flat" alt="Rashed's World" /> </p> -->
 <h1 align="center">Hi, I'm RASHEDUL ISLAM</h1>
-<h4 align="center">A passionate Problem Solver | Software Developer | IT Manager | Web Developer | Digital Marketer from Bangladesh</h4>
+<h4 align="center">A passionate Problem Solver | Software Developer | IT Manager | Web Developer | Digital Marketer</h4>
 
 - I’m currently work as the **IT Manager**
 
