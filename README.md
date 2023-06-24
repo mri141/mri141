@@ -1,14 +1,12 @@
-<p align="left"> <img src="https://gpvc.arturio.dev/mri141?label=Profile%20views&color=0e75b6&style=flat" alt="mri141" /> </p>
+<!-- <p align="left"> <img src="https://gpvc.arturio.dev/mri141?label=Profile%20views&color=0e75b6&style=flat" alt="Rashed's World" /> </p> -->
 <h1 align="center">Hi, I'm RASHEDUL ISLAM</h1>
-<h4 align="center">A passionate Problem Solver | Software Developer | Project Manager | IT Expert from Bangladesh</h4>
+<h4 align="center">A passionate Problem Solver | Software Developer | IT Manager | Web Developer | Digital Marketer from Bangladesh</h4>
 
-- I’m currently work as the **Head of IT Department**
+- I’m currently work as the **IT Manager**
 
-- I’m looking to collaborate on **Information Technology, Software Development & Project Management**
+- I’m professionally certified in **Python, Javascript, SQL, Problem Solving, Java, AMCAT Employability in Computer Science, Fast Typing**
 
-- I’m professionally certified in **Python, Javascript, SQL, Problem Solving, Java (Android), Bdjobs-AMCAT Employability in Computer Science, Fast Typing**
-
-- I have worked at **eCommerce, Software Companies, Consultancy Farms, Online Marketplaces, Educational Institutes, and Social Organizations** 
+- I have worked at **eCommerce, Software Companies, Consultancy Farms, and Social Organizations** 
 </br></br>
 
 <h3 align="left">Connect with me: rashed@bigbd.org</h3>
